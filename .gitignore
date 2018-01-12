@@ -4,3 +4,4 @@ output_images/.DS_Store
 test_images/.DS_Store
 vehicles
 non-vehicles
+.ipynb_checkpoints
