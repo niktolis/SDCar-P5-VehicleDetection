@@ -16,9 +16,9 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 [image1]: ./output_images/car_dataset.png
-[image2]: ./output_images/rgb_8_8_2_car.jpg
-[image3]: ./output_images/rgb_8_8_2_ncar.jpg
-[image4]: ./output_images/ycrcb_16_6_8_car.jpg
+[image2]: ./output_images/rgb_8_8_2_car.png
+[image3]: ./output_images/rgb_8_8_2_ncar.png
+[image4]: ./output_images/ycrcb_16_6_8_car.png
 [image5]: ./output_images/ycrcb_16_6_8_ncar.png
 [image6]: ./output_images/yuv_11_16_2_car.png
 [image7]: ./output_images/yuv_11_16_2_ncar.png
